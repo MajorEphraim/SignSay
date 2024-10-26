@@ -6,6 +6,8 @@ buildscript {
         minSdkVersion = 21
         compileSdkVersion = 30
         targetSdkVersion = 30
+        //# Remove 'supportLibVersion' property and put specific versions for AndroidX libraries
+        androidXCore = "1.0.2"
     }
     repositories {
         google()

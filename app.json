@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "signsay",
-    "slug": "signsay",
+    "name": "SignSay",
+    "slug": "SignSay",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "signsay"
+  "name": "SignSay"
 }
